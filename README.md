@@ -24,21 +24,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arinarnabila_?igsh=a2c3bHN0ZGU4cWl6)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/PCSX5JJDY2XFO1)
 
-<p align="left">Play games with me</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arinanabila/arinanabila/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arinanabila/arinanabila/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arinanabila/arinanabila/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
 <img src="https://raw.githubusercontent.com/arinanabila/arinanabila/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
 
 <!--
 **arinanabila/arinanabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
