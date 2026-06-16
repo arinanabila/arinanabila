@@ -1,4 +1,4 @@
-# Hello I'm Arina Rahmania Nabila 👋
+# Hello I'm Arina Rahmania Nabila - (ARN) 👋
 
 ![Arina](img/github-header-banner.png)
 
